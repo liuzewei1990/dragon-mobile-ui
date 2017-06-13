@@ -77,7 +77,7 @@ $prefixCls: ui-tab;
       }
 
       &.disabled {
-        opacity: $disabled-opacity;
+        color: $disabled-color;
         cursor: not-allowed;
       }
     }
